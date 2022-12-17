@@ -1,0 +1,22 @@
+{
+  "name": "matchmakingsystem",
+  "version": "1.0.0",
+  "description": "A matchmaking service for roblox. Open Source for public use",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liveset1/MatchmakingServiceRoblox.git"
+  },
+  "author": "Indelton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Liveset1/MatchmakingServiceRoblox/issues"
+  },
+  "homepage": "https://github.com/Liveset1/MatchmakingServiceRoblox#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
